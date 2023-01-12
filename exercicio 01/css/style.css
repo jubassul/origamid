@@ -1,0 +1,18 @@
+body{
+ font-family: Arial;
+}
+.today {
+  color: darkred;
+}
+.tomorrow {
+  color: darkblue;
+}
+a {
+  text-decoration: none;
+}
+.subtitle {
+  color: seagreen;
+}
+p{
+  font-size: 20px;
+}
