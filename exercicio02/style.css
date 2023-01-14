@@ -1,0 +1,33 @@
+body {
+  font-family: "Arial";
+}
+
+h1 {
+  text-align: center;
+}
+
+.info-product {
+  background: #111;
+  border-radius: 4px;
+  margin: 20px;
+  padding: 30px;
+}
+
+h2 {
+  color: #fff;
+  margin: 0px;
+}
+span {
+  color: #febe01;
+}
+p {
+  color: #b2b2b2;
+}
+button {
+  color: #111;
+  font-weight: 600;
+  background: #febe01;
+  border-style: none;
+  border-radius: 4px;
+  padding: 10px;
+}
